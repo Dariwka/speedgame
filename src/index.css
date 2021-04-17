@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=RocknRoll+One&display=swap");
+
+body {
+  font-family: "Comfortaa", sans-serif;
+  background-color: beige;
+  text-align: center;
+}
+
+button {
+  font-family: inherit;
+  padding: 1rem;
+  margin: 1rem;
+  background: white;
+  box-shadow: 0 0 5px #333;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  text-transform: uppercase;
+}

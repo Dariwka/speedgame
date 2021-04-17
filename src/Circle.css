@@ -1,0 +1,49 @@
+.circle {
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+
+  height: 5em;
+  width: 5em;
+
+  border-radius: 50%;
+  display: inline-block;
+  margin: 1rem;
+}
+
+.green {
+  background-color: green;
+}
+
+.violet {
+  background-color: violet;
+}
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.pink {
+  background-color: rgb(243, 72, 129);
+}
+
+.active {
+  background-image: url("./assets/img/emoji.png");
+}
+
+#circles {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  margin-bottom: 40px;
+}
