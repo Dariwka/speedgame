@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/speedgame/static/css/main.6c7a8baa.chunk.css",
+    "main.js": "/speedgame/static/js/main.47db267a.chunk.js",
+    "main.js.map": "/speedgame/static/js/main.47db267a.chunk.js.map",
+    "runtime-main.js": "/speedgame/static/js/runtime-main.7b8f3a7d.js",
+    "runtime-main.js.map": "/speedgame/static/js/runtime-main.7b8f3a7d.js.map",
+    "static/js/2.32734ff5.chunk.js": "/speedgame/static/js/2.32734ff5.chunk.js",
+    "static/js/2.32734ff5.chunk.js.map": "/speedgame/static/js/2.32734ff5.chunk.js.map",
+    "index.html": "/speedgame/index.html",
+    "static/css/main.6c7a8baa.chunk.css.map": "/speedgame/static/css/main.6c7a8baa.chunk.css.map",
+    "static/js/2.32734ff5.chunk.js.LICENSE.txt": "/speedgame/static/js/2.32734ff5.chunk.js.LICENSE.txt",
+    "static/media/GAME_OVER.7abf7a38.mp3": "/speedgame/static/media/GAME_OVER.7abf7a38.mp3",
+    "static/media/Laugh.51cb1cf0.mp3": "/speedgame/static/media/Laugh.51cb1cf0.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b8f3a7d.js",
+    "static/js/2.32734ff5.chunk.js",
+    "static/css/main.6c7a8baa.chunk.css",
+    "static/js/main.47db267a.chunk.js"
+  ]
+}
